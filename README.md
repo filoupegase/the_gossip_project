@@ -1,5 +1,5 @@
 <h1>Projet : Une application en Sinatra</h1>
 
-<p>Cours : Franck Sinatra</p>
 
+<h3>Franck Sinatra</h3>
 <p>THP semaine 4 jour 1</p>
